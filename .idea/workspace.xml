@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f242b63-2df1-45a9-9d7e-da58193a06c7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000001247699584" />
+      <entry key="S5" value="1.0027756014186118" />
+      <entry key="S10" value="1.1002295123179604" />
+      <entry key="S30" value="3.1328172732816477" />
+      <entry key="S60" value="7.030186127536823" />
+      <entry key="M2" value="11.983869410408925" />
+      <entry key="M5" value="18.897880267449104" />
+      <entry key="M10" value="26.60207315609701" />
+      <entry key="M15" value="34.73322966798713" />
+      <entry key="M30" value="63.304141763020176" />
+      <entry key="H1" value="118.27649543146923" />
+      <entry key="H2" value="202.02367414096594" />
+      <entry key="H4" value="338.3445454185423" />
+      <entry key="D1" value="791.1249224724401" />
+      <entry key="W1" value="966.6103930986122" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.509653618087212E-143" />
+      <entry key="S5" value="7.439622939620126E-58" />
+      <entry key="S10" value="2.727567220000292E-29" />
+      <entry key="S30" value="3.010175528665267E-10" />
+      <entry key="S60" value="1.7349857430784305E-5" />
+      <entry key="M2" value="0.004165328384276581" />
+      <entry key="M5" value="0.11386956096052793" />
+      <entry key="M10" value="0.5194295842104212" />
+      <entry key="M15" value="1.3713928923220688" />
+      <entry key="M30" value="5.478230992490022" />
+      <entry key="H1" value="13.574499482244159" />
+      <entry key="H2" value="25.22896625123738" />
+      <entry key="H4" value="43.101344272700224" />
+      <entry key="D1" value="96.54504759478247" />
+      <entry key="W1" value="116.19001772648639" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.815589377408977E-4" />
+      <entry key="MS500" value="0.2170350569002607" />
+      <entry key="S2" value="0.6825469455525118" />
+      <entry key="S5" value="0.860721862226208" />
+      <entry key="S10" value="1.0190402589109506" />
+      <entry key="S30" value="3.032824894888335" />
+      <entry key="S60" value="6.901563750260311" />
+      <entry key="M2" value="11.872678116475637" />
+      <entry key="M5" value="18.940057809485587" />
+      <entry key="M10" value="27.072422535238424" />
+      <entry key="M15" value="36.06128993668114" />
+      <entry key="M30" value="68.74100652534179" />
+      <entry key="H1" value="131.8133031048133" />
+      <entry key="H2" value="227.22232572234347" />
+      <entry key="H4" value="381.4220140321075" />
+      <entry key="D1" value="887.6615520308442" />
+      <entry key="W1" value="1082.7989725515454" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K6ybBgFUItganSgQZqaiPefwVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\Piyush Das\\WebstormProjects\\roomify\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f242b63-2df1-45a9-9d7e-da58193a06c7" name="Changes" comment="" />
+      <created>1790892383292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790892383292</updated>
+      <workItem from="1790892383748" duration="349000" />
+      <workItem from="1790892785731" duration="1776000" />
+      <workItem from="1790922175907" duration="18099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
